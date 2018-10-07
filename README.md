@@ -17,3 +17,8 @@ download-node-request.js
 mkdirSync.js
 フォルダの作成
 
+test-xml-builder2.js
+xmlの作成
+
+tenki.js = tenki-cheeri.js
+中身は一緒、記法が異なる
